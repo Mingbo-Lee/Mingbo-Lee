@@ -14,7 +14,7 @@
 | ------------- | ------------- |
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mingbo-Lee&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingbo-Lee&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## contact me 
 Email:mingboli@outlook.com or walden2019@163.com
