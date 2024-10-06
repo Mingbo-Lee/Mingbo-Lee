@@ -14,14 +14,14 @@
 
 - 👋 Hi, I’m @Mingbo-Lee
 
-## about me 
+## About me 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mingbo-Lee&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Mingbo-Lee's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mingbo-Lee" /></a> |
 | ------------- | ------------- |
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingbo-Lee&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## contact me 
+## Contact me 
 Email:mingboli@outlook.com or walden2019@163.com
   
 
